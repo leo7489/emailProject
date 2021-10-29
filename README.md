@@ -1,4 +1,4 @@
-We're asking candidates to provide a small object oriented (OO) PHP script that does the following:
+We're asking candidates to provide a small PHP script that does the following:
 * presents a web form
 * provides user the ability to input any number or emails separated by whitespace
 * processes the submitted values containing the emails
